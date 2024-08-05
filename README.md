@@ -77,6 +77,8 @@ MIT - Exisiting in repository.
 
 ## Contact
 
+## Youtube video explaining how the code works
+- https://youtu.be/UbudCpfSKy0
 
 Project Link:https://github.com/alvinyeboah/Intro-to-AI---Final-Project.git
 
